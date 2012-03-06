@@ -31,7 +31,9 @@ To compare two pieces of text:
     >>> 49.39759036144578
 
 txt1 and txt2 from these articles:
+
 * http://www.imore.com/2012/03/05/ipad-3-4g-lte-networking/
+
 * http://www.zdnet.com/blog/btl/ipad-3-set-to-launch-with-4g-lte-expect-an-iphone-version/70833
 
 Which are clearly related.
